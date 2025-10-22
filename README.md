@@ -12,6 +12,6 @@ Tech Used: Python, Scikit-learn, Data Visualization
 I believe in the power of data storytelling, critical thinking, and first-principles reasoning to derive impactful insights. As I continue to grow, I aim to bridge the gap between data analytics and intelligent automation by integrating AI and ML into real-world applications.
 
 Connect With Me:
-LinkedIn - https://www.linkedin.com/in/sameer-verma-5a8089272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-email - sameerverma8318@gmail.com
+- LinkedIn - https://www.linkedin.com/in/sameer-verma-5a8089272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+- email - sameerverma8318@gmail.com
 
