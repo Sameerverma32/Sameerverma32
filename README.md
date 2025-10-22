@@ -1,5 +1,4 @@
-Welcome to my GitHub! I specialize in Data Analytics — turning raw data into meaningful insights through analytical thinking, visualization, and AI-powered approaches. 👋
-
+Welcome to my GitHub! 👋
 I’m an aspiring Data Analyst with a strong foundation in Python, Power BI, Advanced Excel, and Database Management, driven by a deep interest in Artificial Intelligence and Machine Learning. My work revolves around exploring data, uncovering patterns, and transforming raw information into meaningful insights that support better decision-making. Over time, I have developed expertise in data cleaning, visualization, and predictive analytics using tools like Pandas, NumPy, Scikit-learn, and Power BI, along with a solid understanding of statistical analysis and reporting through Excel and SQL.
 
 Featured Projects:
