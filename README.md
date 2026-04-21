@@ -4,8 +4,6 @@ I’m an aspiring Data Analyst with a strong foundation in Python, Power BI, Adv
 Featured Projects:
 - _LinkSolve_ - An AI-driven analytical tool that extracts and analyzes LinkedIn job data, providing insights into hiring trends and career opportunities.
 Tech Used: Python, BeautifulSoup, Pandas, Power BI
-- _Urban Traffic Prediction_ - A machine learning project predicting traffic density using urban datasets for better city planning.
-Tech Used: Python, Scikit-learn, Data Visualization
 - _Power BI Dashboards_ - Created multiple interactive Power BI dashboards for sales, performance tracking, and operational analytics.
 - _Advanced Excel Reports_ - Built Excel-based analytical dashboards using pivot tables, macros, and complex formulas for data-driven decisions.
 
